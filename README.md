@@ -16,3 +16,5 @@ Our awesome digital smartwatch keeps you connected with real-time call, message,
 
 👥 What Our Users Say:
 Our customers love the blend of functionality and style. But don’t just take our word for it—check out their testimonials on our website!
+
+![image alt](https://github.com/shaikshoaibahmed/TrendTick/blob/main/website%20img/Screenshot%202025-04-30%20at%2000-24-07%20Product%20Landing%20Page.png?raw=true)
